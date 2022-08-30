@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Rejestrowanie deskryptorów"
+        android:icon="@drawable/ic_baseline_camera_alt_24"
+        android:id="@+id/object_descriptor"/>
+    <item
+        android:title="Znajdź obiekt"
+        android:icon="@drawable/ic_baseline_image_search_24"
+        android:id="@+id/image_search"/>
+    <item
+        android:title="Ustawienia"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:id="@+id/settings"/>
+</menu>
